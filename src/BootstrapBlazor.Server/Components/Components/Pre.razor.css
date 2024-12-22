@@ -4,7 +4,7 @@
     border-radius: var(--bs-border-radius);
     overflow: hidden;
     direction: ltr;
-    width: 100%;
+    width: 1%;
 }
 
     .pre-code:not(:last-child) {
